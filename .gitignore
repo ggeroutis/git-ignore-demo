@@ -6,3 +6,6 @@ build/
 
 # Ignore all files that has the extension ".log"
 *.log
+
+# Ignore venv folder
+venv/
